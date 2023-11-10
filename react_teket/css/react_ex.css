@@ -65,5 +65,5 @@ footer {padding:5rem 0;text-align:center;background:#131313;color:#fff;font-size
     #main {margin-bottom:10rem;}
     #main .arrow-right {bottom:-10%;}
     #main ul, #main1 ul, #main2 ul {flex-wrap:wrap;}
-    #main ul li, #main1 ul li, #main2 ul li {width:44%;padding-right:3px;}
+    #main ul li, #main1 ul li, #main2 ul li {width:43%;padding-right:3px;}
 }
